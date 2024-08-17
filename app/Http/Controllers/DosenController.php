@@ -119,5 +119,5 @@ class DosenController extends Controller
 
         return redirect()->route('dosen.index')->with('success', 'Data dosen dan user berhasil dihapus.');
     }
-
+      
 }
