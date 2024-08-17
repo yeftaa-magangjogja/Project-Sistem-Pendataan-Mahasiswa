@@ -1,7 +1,7 @@
 @extends('components.mhs')
 
 @section('content')
-    <!-- Start block -->
+    <!-- Start block Mahasiswa -->
     <section class="bg-gray-50 dark:bg-gray-900 p-3 sm:p-5 antialiased">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2"></div>
 
